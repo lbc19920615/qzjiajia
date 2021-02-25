@@ -3,16 +3,16 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif2.gif.gif" width="300" />
 ---
 <a href="http://weibo.com/234610510">
-  <img align="left" width="26px" src="https://github.com/qzjiajia/qzjiajia/master/icon/weibo.svg" />
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/qzjiajia/image/master/weibo.7jvxfl931w00.svg" />
 </a>
 <a href="https://www.instagram.com/linjj_1020/">
-  <img align="left" width="24px" src="https://github.com/qzjiajia/qzjiajia/master/icon/Instagram.svg" />
+  <img align="left" width="24px" src="https://raw.githubusercontent.com/qzjiajia/image/master/Instagram.7gznlaewr700.svg" />
 </a>
 <a href="https://twitter.com/linjj1020">
-  <img align="left" width="26px" src="https://github.com/qzjiajia/qzjiajia/master/icon/Twitter.svg" />
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/qzjiajia/image/master/Twitter.46ooyhl0lbc0.svg" />
 </a>
 <a href="https://t.me/linjj1020">
-  <img align="left" width="26px" src="https://github.com/qzjiajia/qzjiajia/master/icon/Telegram.svg" />
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/qzjiajia/image/master/Telegram.naqd1dd8vr4.svg" />
 </a>
 <p align="left">
   <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=qzjiajia&show_icons=true&theme=synthwave" alt="qzjiajia :: Profile Stats" />
