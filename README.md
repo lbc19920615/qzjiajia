@@ -3,6 +3,7 @@
 <p align="left">
   <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=qzjiajia&show_icons=true&theme=synthwave" alt="qzjiajia :: Profile Stats" />
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzjiajia&langs_count=10&theme=synthwave&layout=compact" alt="qzjiajia :: Top Langs" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qzjiajia&count_private=true)
 </p
 
 <br>
