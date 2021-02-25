@@ -1,11 +1,4 @@
 ### 大家好, 我是[qzjiajia](https://qzjiajia.gitee.io)！
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif2.gif.gif" width="300" />
-<br>
-<br>
-<br>
-<br>
-<br>
 <a href="http://weibo.com/234610510">
   <img align="left" width="26px" src="https://raw.githubusercontent.com/qzjiajia/image/master/weibo.7jvxfl931w00.svg" />
 </a>
@@ -18,6 +11,11 @@
 <a href="https://t.me/linjj1020">
   <img align="left" width="26px" src="https://raw.githubusercontent.com/qzjiajia/image/master/Telegram.naqd1dd8vr4.svg" />
 </a>
+<br>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif2.gif.gif" width="300" />
+<br>
+
+
 <p align="left">
   <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=qzjiajia&show_icons=true&theme=synthwave" alt="qzjiajia :: Profile Stats" />
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzjiajia&langs_count=10&theme=synthwave&layout=compact" alt="qzjiajia :: Top Langs" />
