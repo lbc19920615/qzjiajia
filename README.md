@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qzjiajia)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=qzjiajia&show_icons=true&theme=synthwave" alt="qzjiajia :: Profile Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzjiajia&langs_count=10&theme=synthwave&layout=compact" alt="qzjiajia :: Top Langs" />
+</p>
