@@ -2,7 +2,6 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif2.gif.gif" width="300" />
 <br>
----
 <br>
 <a href="http://weibo.com/234610510">
   <img align="left" width="26px" src="https://raw.githubusercontent.com/qzjiajia/image/master/weibo.7jvxfl931w00.svg" />
