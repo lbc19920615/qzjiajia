@@ -1,7 +1,19 @@
 ### 大家好, 我是[qzjiajia](https://qzjiajia.gitee.io)！
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif2.gif.gif" width="300" />
-
+---
+<a href="http://weibo.com/234610510">
+  <img align="left" width="26px" src="https://github.com/qzjiajia/qzjiajia/master/icon/weibo.svg" />
+</a>
+<a href="https://www.instagram.com/nange.cn/">
+  <img align="left" alt="眼儿媚 | Instagram" width="24px" src="https://github.com/qzjiajia/qzjiajia/master/icon/Instagram.svg" />
+</a>
+<a href="https://twitter.com/PeinanXu">
+  <img align="left" alt="眼儿媚 | Twitter" width="26px" src="https://github.com/qzjiajia/qzjiajia/master/icon/Twitter.svg" />
+</a>
+<a href="https://t.me/VMGirls">
+  <img align="left" alt="眼儿媚 | Telegram Channel" width="26px" src="https://github.com/qzjiajia/qzjiajia/master/icon/Telegram.svg" />
+</a>
 <p align="left">
   <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=qzjiajia&show_icons=true&theme=synthwave" alt="qzjiajia :: Profile Stats" />
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qzjiajia&langs_count=10&theme=synthwave&layout=compact" alt="qzjiajia :: Top Langs" />
