@@ -11,10 +11,10 @@
 ## 置顶
 <p align="left">
  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Brook&theme=radical)](https://github.com/xos/Brook) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Home&theme=cobalt)](https://github.com/xos/Home)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=StatusPage&theme=synthwave)](https://github.com/xos/StatusPage) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=Nange&theme=merko)](https://github.com/xos/Nange)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=CheckChrome&theme=dracula)](https://github.com/XOS/CheckChrome) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=XOS&repo=GetIPUA&theme=gruvbox)](https://github.com/XOS/GetIPUA)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qzjiajia&repo=qzjiajia&theme=radical)](https://github.com/qzjiajia/qzjiajia) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qzjiajia&repo=image&theme=cobalt)](https://github.com/qzjiajia/image)
+[![ReadMe Card](http://github-readme-stats.vercel.app/api/pin/?username=qzjiajia&repo=qzjiajia.github.io&theme=synthwave)](https://github.com/qzjiajia/qzjiajia.github.io) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qzjiajia&repo=zhihuspider&theme=merko)](https://github.com/qzjiajia/zhihuspider)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qzjiajia&repo=Python_fullstack&theme=dracula)](https://github.com/qzjiajia/Python_fullstack) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=qzjiajia&repo=deeplearning_examing&theme=gruvbox)](https://github.com/qzjiajia/deeplearning_examing)
 </p>
