@@ -11,10 +11,7 @@
 <a href="https://t.me/linjj1020">
   <img align="left" width="26px" src="https://raw.githubusercontent.com/qzjiajia/image/master/Telegram.naqd1dd8vr4.svg" />
 </a>
-<br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif2.gif.gif" width="300" />
-<br>
-
 
 <p align="left">
   <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=qzjiajia&show_icons=true&theme=synthwave" alt="qzjiajia :: Profile Stats" />
